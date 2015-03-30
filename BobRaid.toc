@@ -1,0 +1,8 @@
+## Interface: 60100
+## Title: BobRaid
+## Author: 10leej
+## Notes: !Beautycase Skinned raid frames
+## Dependencies: !Beautycase
+
+config.lua
+core.lua
